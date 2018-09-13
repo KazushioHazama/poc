@@ -69,6 +69,7 @@
         </div>
         <section class="news diagonal">
           <div class="news_inner">
+　　　　　　<h1 class="h1">羽佐間修正（２）</h1>
             <h2 class="h1">お知らせ（修正）<span class="text-middle">NEWS</span></h2>
             <div class="news_slide">
               <ul class="card-list" id="cardList">
