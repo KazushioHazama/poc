@@ -48,8 +48,8 @@
           <div class="kv_inner swiper-wrapper">
             <div class="kv_item swiper-slide">
               <div class="kv_item_inner">
-                <h1 class="h1"><span class="text-spacing">損保サイバーセキュリティ</span><span class="text">で</span><br class="sp-none">企業<span class="text">の</span><br class="pc-none"><span class="text-sp">「安心」</span><span class="dot">・</span><span class="text-sp">「安全」</span><span class="dot">・</span><span class="text-sp">「健康」</span><span class="text">を</span></h1>
-                <p class="text-base">SOMPO CYBER SECURITYでは、コーポレートごとのリスク・<br class="pc-none">課題に応じた最適なサービスをご用意し、<br class="pc-none">カスタマイズしたソリューションをご提供し、<br class="pc-none">柔軟で適切なサイバーセキュリティ対策を<br class="pc-none">お約束いたします。</p>
+                <h1 class="h1"><span class="text-spacing">損保さいばーせきゅりてぃ（羽佐間）</span><span class="text">で</span><br class="sp-none">企業<span class="text">の</span><br class="pc-none"><span class="text-sp">「安心」</span><span class="dot">・</span><span class="text-sp">「安全」</span><span class="dot">・</span><span class="text-sp">「健康」</span><span class="text">を</span></h1>
+                <p class="text-base">SOMPO CYBER SECURITYでは、企業ごとのリスク・<br class="pc-none">課題に応じた最適なサービスをご用意し、<br class="pc-none">カスタマイズしたソリューションをご提供し、<br class="pc-none">柔軟で適切なサイバーセキュリティ対策を<br class="pc-none">お約束いたします。</p>
                 <div class="link-btn"><a href=""><img src="/img/defnavilogo.png" alt="SOMPO DEFNAVI"><span class="text-base">無料簡易診断を試す</span></a></div>
               </div>
             </div>
